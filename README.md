@@ -42,6 +42,7 @@ applications/standard/hap
 ├── Media_Scanner.hap            # Media scanner app
 ├── CallUI.hap                   # Call ui app
 ├── Telephony_Data_Storage.hap   # Telephony Data Storage hap
+├── PermissionManager.hap        # Permission manager app
 ```
 
 ## Repositories Involved<a name="section120mcpsimp"></a>
