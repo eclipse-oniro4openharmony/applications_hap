@@ -6,7 +6,7 @@
 | CertificateManager.hap | http://download.ci.openharmony.cn/version/Master_Version/hap_CertificateManager/20221129_164935/version-Master_Version-hap_CertificateManager-20221129_164935-hap_CertificateManager.tar.gz |
 | Clock_Demo.hap | TODO |
 | Contacts.hap | http://download.ci.openharmony.cn/version/Master_Version/hap_Contacts/20221130_094656/version-Master_Version-hap_Contacts-20221130_094656-hap_Contacts.tar.gz |
-| FilePicker.hap | TODO |
+| FilePicker.hap | TODO | http://download.ci.openharmony.cn/version/Master_Version/hap_FilePicker/20221129_184338/version-Master_Version-hap_FilePicker-20221129_184338-hap_FilePicker.tar.gz |
 | Launcher.hap | TODO |
 | Launcher_Settings.hap | TODO |
 | Mms.hap | http://download.ci.openharmony.cn/version/Master_Version/hap_Mms/20221130_094527/version-Master_Version-hap_Mms-20221130_094527-hap_Mms.tar.gz |
