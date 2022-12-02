@@ -13,7 +13,7 @@
 | MobileDataSettings.hap | http://download.ci.openharmony.cn/version/Master_Version/hap_CallUI/20221130_094445/version-Master_Version-hap_CallUI-20221130_094445-hap_CallUI.tar.gz |
 | Music_Demo.hap | TODO |
 | Note.hap | TODO |
-| Photos.hap | TODO |
+| Photos.hap | TODO | http://download.ci.openharmony.cn/version/Master_Version/hap_Photos/20221130_212427/version-Master_Version-hap_Photos-20221130_212427-hap_Photos.tar.gz |
 | ScreenShot.hap | http://download.ci.openharmony.cn/version/Master_Version/hap_ScreenShot/20221129_163631/version-Master_Version-hap_ScreenShot-20221129_163631-hap_ScreenShot.tar.gz |
 | Settings.hap | TODO |
 | SettingsData.hap | TODO |
