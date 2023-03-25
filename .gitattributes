@@ -22,7 +22,6 @@ Settings.hap filter=lfs diff=lfs merge=lfs -text
 Telephony_Data_Storage.hap filter=lfs diff=lfs merge=lfs -text
 kikaInput.hap filter=lfs diff=lfs merge=lfs -text
 SystemUI-SystemDialog.hap filter=lfs diff=lfs merge=lfs -text
-Shopping_Demo.hap filter=lfs diff=lfs merge=lfs -text
 Airquality_Demo.hap filter=lfs diff=lfs merge=lfs -text
 CallUI.hap filter=lfs diff=lfs merge=lfs -text
 Clock_Demo.hap filter=lfs diff=lfs merge=lfs -text
