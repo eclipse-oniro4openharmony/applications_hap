@@ -35,3 +35,4 @@ Camera.hap filter=lfs diff=lfs merge=lfs -text
 Launcher_Recents.hap filter=lfs diff=lfs merge=lfs -text
 Music_Demo.hap filter=lfs diff=lfs merge=lfs -text
 SystemUI-NavigationBar.hap filter=lfs diff=lfs merge=lfs -text
+PrintSpooler.hap filter=lfs diff=lfs merge=lfs -text
